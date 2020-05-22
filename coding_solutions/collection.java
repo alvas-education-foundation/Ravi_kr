@@ -16,7 +16,7 @@ class Test
   
         // Array instance creation requires [], while Vector 
         // and hastable require () 
-        // Vector element insertion requires addElement(), but 
+        // Vector element insertion requires addElement(), but the
         // hashtable element insertion requires put() 
   
         // Accessing first element of array, vector and hashtable 
